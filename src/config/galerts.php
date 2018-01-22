@@ -1,5 +1,6 @@
 <?php
 
+// TODO: to be requested dynamically from the user
 return [
 
     /** Auth credentials **/
